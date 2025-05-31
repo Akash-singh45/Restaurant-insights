@@ -1,7 +1,5 @@
-# 🍽️ Restaurant Data Analysis - Cognifyz Level 3 Internship
+# 🍽️ Restaurant Data Analysis 
 
-This project is part of the Level 3 internship tasks assigned by **Cognifyz Technologies** under the theme:  
-**"Where Data Meets Intelligence"**.
 
 The project involves analyzing a dataset of restaurant information to extract insights related to reviews, votes, ratings, pricing, and service availability. The tasks are broken down into three modules.
 
